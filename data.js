@@ -44,8 +44,8 @@ var APP_DATA = {
         {
           "yaw": 0.6319923911907424,
           "pitch": -0.17290606185455815,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">المعموديّة</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">那时，耶稣由加里肋亚来到约但河若翰那里，为受他的洗；但若翰想要阻止他说：「我本来需要受你的洗，而你却来就我吗？」耶稣回答他说：「你暂且容许罢！因为我们应当这样，以完成全义。」于是若翰就容许了他。</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">耶稣受洗后，立时从水里上来，忽然天为他开了。他看见天主圣神有如鸽子降下，来到他上面；又有声音由天上说：「这是我的爱子，我所喜悦的。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(玛窦福音 3:13–17)<o:p></o:p></p></div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 18pt; line-height: 115%;\">المعموديّة</span><o:p></o:p></p>",
+          "text": "<p dir=\"rtl\" style=\"text-align: right; direction: rtl; unicode-bidi: embed; font-size: 18pt; line-height: 170%;\">في ذٰلِكَ الوَقْت ظَهَرَ يسوع وقَد أَتى مِنَ الجَليلِ إِلى الأُردُنّ، قاصِدًا يُوحنَّا لِيَعتَمِدَ عن يَدِه. فجَعَلَ يُوحنَّا يُمانِعُه فيَقول: «أَنا أَحتاجُ إِلى الِاعتِمادِ عن يَدِكَ، أَوَأَنتَ تَأتي إِلَيَّ؟» فأَجابَه يسوع: «دَعْني الآنَ وما أُريد، فهٰكذا يَحسُنُ بِنا أَن نُتِمَّ كُلَّ بِرّ». فتَرَكَه وما أَراد.</span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p dir=\"rtl\" style=\"text-align: right; direction: rtl; unicode-bidi: embed; font-size: 18pt; line-height: 170%;\">وٱعتَمَدَ يسوع وخَرَجَ لِوَقتِه مِنَ الماء، فإِذا السَّمَواتُ قدِ ٱنفَتَحت فرأَى رُوحَ اللهِ يَهبِطُ كأَنَّه حَمامةٌ ويَنزِلُ علَيه. وإِذا صَوتٌ مِنَ السَّمَواتِ يَقول: «هٰذا هُوَ ٱبنِيَ الحَبيبُ الَّذي عَنه رَضِيت».<o:p></o:p></span></p><p dir=\"rtl\" style=\"text-align: right; direction: rtl; unicode-bidi: embed; font-size: 18pt; line-height: 170%;\">(متّى ٣:١٣–١٧)<o:p></o:p></p></div>"
         }
       ]
     },
