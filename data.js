@@ -154,7 +154,7 @@ var APP_DATA = {
         {
           "yaw": 0.004657148241202336,
           "pitch": -0.4721606572718109,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">إعلان مجيء ملكوت الله</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 18pt; line-height: 115%;\">إعلان مجيء ملكوت الله</span><o:p></o:p></p>",
           "text": "<p dir=\"rtl\" style=\"text-align: right; direction: rtl; unicode-bidi: embed; font-size: 18pt; line-height: 170%;\">وبَعدَ ٱعتِقالِ يوحَنَّا، جاءَ يسوعُ إِلى الجَليل يُعلِنُ بِشارَةَ الله، فيَقول: «حانَ الوَقتُ وَٱقْتَرَبَ مَلَكوتُ الله. فَتوبوا وآمِنوا بِالبِشارة».<o:p></o:p></span></p><p dir=\"rtl\" style=\"text-align: right; direction: rtl; unicode-bidi: embed; font-size: 18pt; line-height: 170%;\">(مر ١٤:١–١٥)</div>"
         }
       ]
@@ -258,7 +258,7 @@ var APP_DATA = {
         {
           "yaw": 0.06865999545901147,
           "pitch": -0.5026090379846924,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">العشاء السرّي</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 18pt; line-height: 115%;\">العشاء السرّي</span><o:p></o:p></p>",
           "text": "<p dir=\"rtl\" style=\"text-align: right; direction: rtl; unicode-bidi: embed; font-size: 18pt; line-height: 170%;\">وبَينَما هم يَأكُلون، أَخذَ يسوعُ خُبزًا وبارَكَ ثُمَّ كَسَرَه وناوَلَه تلاميذَه وقال: «خُذوا فَكُلوا، هٰذا هُوَ جَسَدي». ثُمَّ أَخَذَ كَأسًا وشَكَرَ وناوَلَهم إِيَّاها قائلًا: «إِشرَبوا مِنها كُلُّكم فهٰذا هُوَ دَمي، دَمُ العَهد يُراقُ مِن أَجْلِ جَماعَةِ النَّاسِ لِغُفرانِ الخَطايا. أَقولُ لَكم: لَن أَشرَبَ بَعدَ الآن مِن عَصيرِ الكَرْمَةِ هٰذا حَتَّى ذٰلك اليَومِ الَّذي فيهِ أَشرَبُه مَعَكُم جَديدًا في مَلكوتِ أَبي».<o:p></o:p></span></p><p dir=\"rtl\" style=\"text-align: right; direction: rtl; unicode-bidi: embed; font-size: 18pt; line-height: 170%;\">(متّى ٢٦:٢٦–٢٩)</div>"
         }
       ]
